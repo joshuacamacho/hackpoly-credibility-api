@@ -1,1 +1,0 @@
-# hackpoly-credibility-api

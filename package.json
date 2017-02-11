@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/joshuacamacho/hackpoly-credibility-api/issues"
   },
-  "homepage": "https://github.com/joshuacamacho/hackpoly-credibility-api#readme",
-  "dependencies": {
-    "express": "^4.14.1"
-  }
+  "homepage": "https://github.com/joshuacamacho/hackpoly-credibility-api#readme"
 }
