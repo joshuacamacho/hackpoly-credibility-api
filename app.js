@@ -24,6 +24,10 @@ app.get('/users', (request, response) => {
     });
 });
 
+app.get('/jobRequest',(req,res)=>{
+	res.sendFile(__dirname +'/public/offer.html');
+});
+
 app.listen(3000, () => {
     console.log("Listening on port 3000");
 })
