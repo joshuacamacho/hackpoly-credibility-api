@@ -4,51 +4,31 @@
             "name":"testname",
             "email":"test@cpp.edu",
             "password":"password",
-             "tasks":{
-                "task1":"laundry",
-                "task2":"get food",
-                "task3":"walk dog"
-            }
+            "school":"testschool"
         },               
         "user2":{
             "name":"Josh",
             "email":"josh@cpp.edu",
             "password":"password",
-             "tasks":{
-                "task1":"study partner",
-                "task2":"get dinner",
-                "task3":"walk dog"
-            }
+            "school":"Cal Poly Pomona"
         },         
         "user3":{
             "name":"Thomas",
-            "email":"thomas@cpp.edu",
+            "email":"thomas@usc.edu",
             "password":"password",
-             "tasks":{
-                "task1":"laundry",
-                "task2":"get food",
-                "task3":"walk dog"
-            }    
+            "school":"USC"  
         },            
         "user4":{
             "name":"Tony",
-            "email":"tony@cpp.edu",
+            "email":"tony@harvard.edu",
             "password":"password",
-              "tasks":{
-                "task1":"laundry",
-                "task2":"get food",
-                "task3":"walk dog"
-            }
+            "school":"Harvard"
         },              
         "user5":{   
             "name":"Cristian",
-            "email":"cristian@cpp.edu",
+            "email":"cristian@ucla.edu",
             "password":"password",
-            "tasks":{
-                "task1":"laundry",
-                "task2":"get food",
-                "task3":"walk dog"
-            }
+            "school": "UCLA"
         }
    }
 }
