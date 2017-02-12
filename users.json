@@ -4,31 +4,37 @@
             "name":"testname",
             "email":"test@cpp.edu",
             "password":"password",
-            "school":"testschool"
+            "school":"testschool", 
+            "description":"general description"
         },               
         "user2":{
             "name":"Josh",
             "email":"josh@cpp.edu",
             "password":"password",
-            "school":"Cal Poly Pomona"
+            "school":"Cal Poly Pomona",
+            "description":"Good at software development"
         },         
         "user3":{
             "name":"Thomas",
             "email":"thomas@usc.edu",
             "password":"password",
-            "school":"USC"  
+            "school":"USC",
+            "description":"Love to mow the lawn"
         },            
         "user4":{
             "name":"Tony",
             "email":"tony@harvard.edu",
             "password":"password",
-            "school":"Harvard"
+            "school":"Harvard",
+            "description":"Excellent at driving"
         },              
         "user5":{   
             "name":"Cristian",
             "email":"cristian@ucla.edu",
             "password":"password",
-            "school": "UCLA"
+            "school": "UCLA",
+            "description":"Great at building walls"
+
         }
    }
 }
