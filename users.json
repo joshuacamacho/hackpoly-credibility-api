@@ -1,0 +1,54 @@
+{
+    "users":{
+        "user1":{
+            "name":"testname",
+            "email":"test@cpp.edu",
+            "password":"password",
+             "tasks":{
+                "task1":"laundry",
+                "task2":"get food",
+                "task3":"walk dog"
+            }
+        },               
+        "user2":{
+            "name":"Josh",
+            "email":"josh@cpp.edu",
+            "password":"password",
+             "tasks":{
+                "task1":"study partner",
+                "task2":"get dinner",
+                "task3":"walk dog"
+            }
+        },         
+        "user3":{
+            "name":"Thomas",
+            "email":"thomas@cpp.edu",
+            "password":"password",
+             "tasks":{
+                "task1":"laundry",
+                "task2":"get food",
+                "task3":"walk dog"
+            }    
+        },            
+        "user4":{
+            "name":"Tony",
+            "email":"tony@cpp.edu",
+            "password":"password",
+              "tasks":{
+                "task1":"laundry",
+                "task2":"get food",
+                "task3":"walk dog"
+            }
+        },              
+        "user5":{   
+            "name":"Cristian",
+            "email":"cristian@cpp.edu",
+            "password":"password",
+            "tasks":{
+                "task1":"laundry",
+                "task2":"get food",
+                "task3":"walk dog"
+            }
+        }
+   }
+}
