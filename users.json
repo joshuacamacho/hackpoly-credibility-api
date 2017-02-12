@@ -5,36 +5,65 @@
             "email":"test@cpp.edu",
             "password":"password",
             "school":"testschool", 
-            "description":"general description"
+            "description":"general description", 
+            "GPA": "4.00",
+            "quality":"5.0",
+            "punctuality":"5.0",
+            "professionalism":"5.0",
+            "friendliness":"5.0",
+            "cleanliness":"5.0"
         },               
         "user2":{
             "name":"Josh",
             "email":"josh@cpp.edu",
             "password":"password",
             "school":"Cal Poly Pomona",
-            "description":"Good at software development"
+            "description":"Good at software development",
+            "GPA":"3.50",
+            "quality":"5.0",
+            "punctuality":"5.0",
+            "professionalism":"5.0",
+            "friendliness":"5.0",
+            "cleanliness":"5.0"
         },         
         "user3":{
             "name":"Thomas",
             "email":"thomas@usc.edu",
             "password":"password",
             "school":"USC",
-            "description":"Love to mow the lawn"
+            "description":"Love to mow the lawn",
+            "GPA":"3.20",
+            "quality":"5.0",
+            "punctuality":"5.0",
+            "professionalism":"5.0",
+            "friendliness":"5.0",
+            "cleanliness":"5.0"           
         },            
         "user4":{
             "name":"Tony",
             "email":"tony@harvard.edu",
             "password":"password",
             "school":"Harvard",
-            "description":"Excellent at driving"
+            "description":"Excellent at driving",
+            "GPA":"3.70",
+            "quality":"5.0",
+            "punctuality":"5.0",
+            "professionalism":"5.0",
+            "friendliness":"5.0",
+            "cleanliness":"5.0"           
         },              
         "user5":{   
             "name":"Cristian",
             "email":"cristian@ucla.edu",
             "password":"password",
             "school": "UCLA",
-            "description":"Great at building walls"
-
+            "description":"Great at building walls",
+            "GPA":"3.30",
+            "quality":"5.0",
+            "punctuality":"5.0",
+            "professionalism":"5.0",
+            "friendliness":"5.0",
+            "cleanliness":"5.0"
         }
    }
 }
